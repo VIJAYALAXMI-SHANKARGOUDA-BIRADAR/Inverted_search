@@ -8,7 +8,7 @@ The project uses Hashing + Linked Lists to build an Inverted Index, a structure 
 The program reads multiple text files, extracts all words, and stores them in a Hash Table of 27 buckets (a–z + others).
 Each bucket contains a list of words (Main Nodes), and each word maintains a list of files (Sub Nodes) where it appears along with its index.
 
-#🚀 Features
+# 🚀 Features
 
 Builds an Inverted Index using Hash Table (27 buckets)
 
@@ -64,7 +64,7 @@ others → bucket 26
 index = word[0] - 'a'
 
 
-#3)Main Node (m_node)
+# 3)Main Node (m_node)
 
 Stores unique words.
 
@@ -107,7 +107,7 @@ Count of word in that file
 
 Link to next sub node (another file)
 
-#Work Flow
+# Work Flow
 
 <img width="601" height="711" alt="Screenshot 2025-11-22 183814" src="https://github.com/user-attachments/assets/5434cdbc-8d45-466c-8f3a-f29385076d57" />
 
