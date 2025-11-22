@@ -133,15 +133,19 @@ Modular, scalable, real-world DSA-based implementation
 # Sample Output
       # Create Database
    <img width="981" height="747" alt="Screenshot 2025-11-22 192158" src="https://github.com/user-attachments/assets/bce8c7b4-d4af-485a-aa7a-aae877fc2b9a" />
+   
 
      #  Display  Database
    <img width="1097" height="876" alt="Screenshot 2025-11-22 192213" src="https://github.com/user-attachments/assets/d2af2251-9feb-4373-816d-d1fd24a4678c" />
+   
 
     #  Search Database
    <img width="881" height="599" alt="Screenshot 2025-11-22 192234" src="https://github.com/user-attachments/assets/0013cd61-3d34-42b5-aefd-0d13a57c82a7" />
+   
 
      #  Save Database
-<img width="1121" height="444" alt="Screenshot 2025-11-22 192247" src="https://github.com/user-attachments/assets/4e718d43-b503-4f64-9b7c-7fc54be2b747" />
+  <img width="1121" height="444" alt="Screenshot 2025-11-22 192247" src="https://github.com/user-attachments/assets/4e718d43-b503-4f64-9b7c-7fc54be2b747" />
+  
 
 
       #  Update Database
