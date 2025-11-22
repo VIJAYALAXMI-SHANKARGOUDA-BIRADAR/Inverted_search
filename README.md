@@ -21,7 +21,7 @@ Efficient lookup using hashing (O(1) average time)
 Uses Linked Lists to store multiple files for a single word
 
 # Data Structures Used
-#1)Slist (Single Linked List for File Names)
+   # 1)Slist (Single Linked List for File Names)
 typedef struct file_node                       
 {
     char name[50];
@@ -37,7 +37,7 @@ Used in read_validate()
 Used in update_database() for removing old files
 
 
-#2)Hash Table (htable)
+   # 2)Hash Table (htable)
 
 Hash table of 27 buckets.
 
@@ -64,7 +64,7 @@ others → bucket 26
 index = word[0] - 'a'
 
 
-# 3)Main Node (m_node)
+  # 3)Main Node (m_node)
 
 Stores unique words.
 
@@ -87,7 +87,7 @@ Point to first sub node
 
 Point to next main node
 
-4)Sub Node (s_node)
+  # 4)Sub Node (s_node)
 
 Stores file details for each word.
 
