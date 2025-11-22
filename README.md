@@ -114,5 +114,32 @@ Link to next sub node (another file)
 
 <img width="601" height="711" alt="Screenshot 2025-11-22 183814" src="https://github.com/user-attachments/assets/5434cdbc-8d45-466c-8f3a-f29385076d57" />
 
+# Advantages
+
+Fast O(1) searching using hashing
+
+Indexes multiple files efficiently
+
+Saves & loads database without reprocessing files
+
+Supports updating database dynamically
+
+Memory-efficient inverted indexing
+
+Modular, scalable, real-world DSA-based implementation
+
+# Applications:
+Inverted Index is used in search engines, code editors, operating system search utilities, log analyzers, document management systems and email search.
+
+# Conclusion
+This project really helped me understand how searching works inside real applications. I built the complete inverted search system from scratch using C, hashing, and linked lists. By reading multiple files, extracting words, and storing them in a proper data structure, I learned how to make the search faster without scanning the full files again and again.
+
+While doing this project, I faced many issues like segmentation faults, memory handling, linking main nodes and sub nodes correctly, and updating the database. Fixing these problems taught me how important it is to write clean logic and manage memory properly in C.
+
+Overall, this project gave me confidence in DSA, file handling, and struct-based programming. It really felt like building a mini search engine on my own, and I now clearly understand how inverted indexing works in real-world search systems.
+
+
+
+
 
 
