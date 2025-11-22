@@ -1,5 +1,5 @@
-# Inverted_search
-Inverted Search implemented in C using DSA concepts — Hash Table + Linked Lists for fast word indexing.
+# 🔎📂 Inverted_search
+# Inverted Search implemented in C using DSA concepts — Hash Table + Linked Lists for fast word indexing.
 
 
 Inverted Search is a data-structure based C project that implements a fast word-search mechanism across multiple text files.
