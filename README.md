@@ -19,6 +19,9 @@ Stores file-wise word counts for accurate search results
 Efficient lookup using hashing (O(1) average time)
 
 Uses Linked Lists to store multiple files for a single word
+# 📌 Why this project
+
+To implement a fast inverted index using C + DSA concepts, improving search time using hashing and gaining real experience in system-level programming.
 
 # Data Structures Used
    # 1)Slist (Single Linked List for File Names)
