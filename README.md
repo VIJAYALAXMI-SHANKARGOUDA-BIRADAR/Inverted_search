@@ -128,6 +128,13 @@ Memory-efficient inverted indexing
 
 Modular, scalable, real-world DSA-based implementation
 
+
+
+# Sample Output
+      # Create Database
+      <img width="981" height="747" alt="Screenshot 2025-11-22 192158" src="https://github.com/user-attachments/assets/bce8c7b4-d4af-485a-aa7a-aae877fc2b9a" />
+
+
 # Applications:
 Inverted Index is used in search engines, code editors, operating system search utilities, log analyzers, document management systems and email search.
 
